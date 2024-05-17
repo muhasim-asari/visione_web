@@ -1,0 +1,64 @@
+.slider-vision .container {
+  overflow: hidden;
+}
+
+.slider {
+  margin: 0 auto 0 0;
+  overflow: visible;
+}
+
+.slider__list {
+  width: fit-content;
+  cursor: grab;
+}
+
+.slider__listItem {
+  background: #FFF;
+  padding: 30px 15px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 6px 4px 16px 0px rgba(0, 0, 0, 0.18)
+}
+
+.slider__listItem .icon-box {
+  width: 56px;
+  height: 56px;
+}
+
+.slider__listItem .icon-box.success {
+  background-color: #8DC63F;
+}
+
+.slider__listItem .icon-box.warning {
+  background-color: #F7941E;
+}
+
+.slider__listItem .icon-box.fail {
+  background-color: #ED1D24;
+}
+
+.slider__listItem .icon-box.info {
+  background-color: #1C75BC;
+}
+
+.slider__listItem .content {
+  font-family: var(--default-font);
+}
+
+.slider__listItem .content h4 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.slider__listItem .content p {
+  font-size: 15px;
+}
+
+.swiper-button-next, .swiper-button-prev {
+  color: var(--nav-hover-color);
+}
+.container-inner {
+  padding-top: calc(80em / 16);
+  margin: 0 auto;
+  overflow: visible;
+}

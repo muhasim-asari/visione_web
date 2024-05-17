@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "icon": "./assets/img/icons/service-1.svg",
+        "alt": "Visione Services",
+        "title": "Product Engineering",
+        "description": "From the conception of an idea to deployment and user acceptance testing, we handle the end-to-end product life cycle."
+    },
+    {
+        "id": 2,
+        "icon": "./assets/img/icons/service-2.svg",
+        "alt": "Visione Services",
+        "title": "Digital Transformation",
+        "description": "We help define digital strategy, develop products to improve operating efficiency, and deliver value to meet changing business environment"
+    },
+    {
+        "id": 3,
+        "icon": "./assets/img/icons/service-3.svg",
+        "alt": "Visione Services",
+        "title": "BI & Analytics",
+        "description": "We enable our customers to gain valuable insights and make data-driven decisions."
+    },
+    {
+        "id": 4,
+        "icon": "./assets/img/icons/service-4.svg",
+        "alt": "Visione Services",
+        "title": "Cloud Services",
+        "description": "We help customers achieve flexibility, scalability, and bandwidth to support growth by leveraging the cloud technology"
+    },
+    {
+        "id": 5,
+        "icon": "./assets/img/icons/service-5.svg",
+        "alt": "Visione Services",
+        "title": "Mobile App Development",
+        "description": "Android or iOS, native or hybrid, consumer or enterprise, we help you build customer-centric and scalable mobile solutions."
+    },
+    {
+        "id": 6,
+        "icon": "./assets/img/icons/service-6.svg",
+        "alt": "Visione Services",
+        "title": "Staff Augmentation",
+        "description": "Dedicated, on-demand team members bringing reliability, and making project execution smoother and faster."
+    }
+]

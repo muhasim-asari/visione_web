@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/img/industries/hotel.webp",
+        "alt": "Visione Industries",
+        "title": "Travel & Hospitality",
+        "url": "./travel-hospitality-industries.html"
+    },
+    {
+        "id": 2,
+        "image": "./assets/img/industries/building.jpeg",
+        "alt": "Visione Industries",
+        "title": "Building & Property",
+        "url": "./building-property-industries.html"
+    },
+    {
+        "id": 3,
+        "image": "./assets/img/industries/aviation.jpg",
+        "alt": "Visione Industries",
+        "title": "Aviation",
+        "url": "./aviation-industries.html"
+    },
+    {
+        "id": 4,
+        "image": "./assets/img/industries/logistic.png",
+        "alt": "Visione Industries",
+        "title": "Logistic",
+        "url": "./logistic-industries.html"
+    },
+    {
+        "id": 5,
+        "image": "./assets/img/industries/tol.jpg",
+        "alt": "Visione Industries",
+        "title": "Toll Road",
+        "url": "./toll-road-industries.html"
+    },
+    {
+        "id": 6,
+        "image": "./assets/img/industries/custom-erp.png",
+        "alt": "Visione Industries",
+        "title": "Custom ERP",
+        "url": "./custom-erp-industries.html"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "icon": "./assets/img/icons/360.svg",
+        "alt": "Visione Services",
+        "title": "360°",
+        "description": "From ideation to delivery, and ongoing support, we cover the full lifecycle of enterprise application design, integration, and management through our IS360 framework."
+    },
+    {
+        "id": 2,
+        "icon": "./assets/img/icons/client-centric.svg",
+        "alt": "Visione Services",
+        "title": "Client-Centricity",
+        "description": "Visione’s boutique format allows us to maintain a highly customized approach, build a long-term partnership, and remain focused on specific tasks at hand."
+    },
+    {
+        "id": 3,
+        "icon": "./assets/img/icons/domain.svg",
+        "alt": "Visione Services",
+        "title": "Domain Expertise",
+        "description": "We possess exceptional domain expertise and in-depth knowledge of niche technologies: from solution architecture to firefighting projects."
+    },
+    {
+        "id": 4,
+        "icon": "./assets/img/icons/time-market.svg",
+        "alt": "Visione Services",
+        "title": "Time-To-Market",
+        "description": "High level expertise and a number of solutions accelerators enable fast product rollout, quick customizations, and smooth delivery. As a result, you get reduced development costs with speedier market entry."
+    },
+    {
+        "id": 5,
+        "icon": "./assets/img/icons/a-class.svg",
+        "alt": "Visione Services",
+        "title": "A-Class Team",
+        "description": "With over 20 years of experience, we leverage our deep technology knowledge and unparalleled software engineering expertise to ensure digital transformation maturity across the enterprise."
+    }
+]
