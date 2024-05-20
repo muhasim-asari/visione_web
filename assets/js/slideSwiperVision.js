@@ -2,10 +2,9 @@ const slider = document.querySelector("#vision-slider");
 
 new Swiper(slider, {
   spaceBetween: 15,
-  slidesPerView: 2,
   grabCursor: true,
   scrollbar: {
-    // el: scrollbar,
+    el: ".swiper-scrollbar", // Ensure you have an element with this class
     draggable: true,
   },
   navigation: {
@@ -13,10 +12,17 @@ new Swiper(slider, {
     prevEl: ".swiper-button-prev",
   },
   breakpoints: {
-    // when window width is <= 999px
-    499: {
-        slidesPerView: 1,
-        spaceBetweenSlides: 15
-    }
+    0: {  // when window width is <= 499px
+      slidesPerView: 1,
+    },
+    500: {  // when window width is >= 500px
+      slidesPerView: 1,
+    },
+    1000: {  // when window width is >= 1000px
+      slidesPerView: 2,
+    },
+    1440: {  // when window width is >= 1440px
+      slidesPerView: 3,
+    },
   },
 });

@@ -620,7 +620,7 @@ h6 {
   font-size: 16px;
   font-weight: 600;
   font-family: var(--default-font);
-  color: var(--heading-color);
+  color: var(--nav-hover-color);
 }
 
 /*--------------------------------------------------------------
@@ -1103,41 +1103,43 @@ section,
 }
 
 .industries .image-container {
-  position: relative;
   overflow: hidden;
   cursor: pointer;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
   height: 320px;
 }
 
 .industries .image-container img {
-  transition: transform 0.3s;
+  transition: 0.3s;
+  object-fit: cover;
+}
+
+.industries .image-container .content h3 {
+  color: #FFF;
+  text-transform: uppercase;
+  font-size: 22px;
+  padding-left: 20px;
+  font-weight: 800;
+  z-index: 1;
+}
+
+.industries .image-container .content {
+  position: absolute;
+  top: 26px;
+  left: 10px;
 }
 
 .industries .image-container .overlay {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: rgba(14, 37, 73, 0.6);
-  color: white;
+  right: 0;
+  background: rgba(0, 0, 0, 0.30);
   width: 100%;
   height: 100%;
-  box-sizing: border-box;
-  transform: translateY(100%);
-  transition: transform 0.4s;
 }
 
-.industries .image-container:hover .overlay {
-  transform: translateY(0);
-}
-
-.industries .image-container .overlay h3 {
-  background-color: #FFF;
-  font-size: 18px;
-  color: var(--nav-hover-color);
-  border-radius: 5px;
+.industries .image-container:hover img {
+  transform: scale(1.1);
 }
 
 /*--------------------------------------------------------------
@@ -1175,6 +1177,7 @@ section,
 
 .page-head .page-title p {
   font-size: 16px;
+  color: var(--heading-color);
 }
 
 @media screen and (max-width: 76.99px) {
@@ -1482,7 +1485,6 @@ section,
 @media (max-width: 575px) {
   .success-stories-page .success-stories-filter button {
     font-size: 14px;
-    margin: 0 0 10px 0;
   }
 }
 
@@ -1628,6 +1630,11 @@ section,
   text-overflow: ellipsis;
 }
 
+.our-solution .flex-row .flex-content .box p:not(.solution-project) {
+  display: block;
+}
+
+
 .our-solution .flex-row .flex-content .box a {
   color: var(--default-color);
   font-size: 15px;
@@ -1636,6 +1643,13 @@ section,
 
 .our-solution .flex-row .flex-content .box {
   max-width: 420px;
+}
+
+.our-solution .flex-row .flex-content .box .one-air {
+  /* height: 100%; */
+  border-radius: 10px;
+  padding: 5px 10px;
+  box-shadow: 6px 8px 11px 0px rgba(0, 0, 0, 0.15);
 }
 
 /*--------------------------------------------------------------
@@ -1662,6 +1676,14 @@ section,
 
   .stories-slider figcaption {
     padding: 10px 20px;
+  }
+
+  .stories-slider figcaption h2 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .stories-slider figcaption p {
@@ -1755,4 +1777,28 @@ section,
   .stories-detail figure img {
     height: 150px!important;
   }
+}
+
+/*--------------------------------------------------------------
+# Aviation Solution Section
+--------------------------------------------------------------*/
+.benefits {
+  background-color: var(--bg-accent-color);
+}
+
+.benefits .container .benefit-box {
+  display: flex;
+  flex-direction: column;
+  background-color: #FFF;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 6px 8px 11px 0px rgba(0, 0, 0, 0.15);
+}
+
+.key-features .box-afml {
+  box-shadow: 6px 8px 11px 0px rgba(0, 0, 0, 0.15);
+  background-color: #FFF;
+  border-radius: 10px;
+  padding: 10px ;
+  height: 100%;
 }

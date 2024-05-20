@@ -14,7 +14,7 @@ fetch("./assets/img/success-stories/data.json")
                       <img src="${item.image}" width="100%" height="275" alt="${item.title}">
                   </div>
                   <div class="col-xl-9">
-                      <div class="content-info px-3">
+                      <div class="content-info px-3 py-4">
                           <h3>${item.title}</h3>
                           <div class="divide-line my-2"></div>
                           <p class="mb-2">${item.description}</p>

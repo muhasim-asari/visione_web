@@ -13,13 +13,15 @@ fetch("./assets/img/industries/data.json")
 // Function to create industries items
 function createIndustriesItem(item) {
   return `
-    <div class="col-lg-4 col-md-12 px-0 my-0" data-aos="zoom-in" data-aos-delay="100">
+    <div class="col-lg-4 col-md-6 px-0 my-0" data-aos="fade-up" data-aos-delay="100">
       <a href="${item.url}">
-      <div class="image-container" style="background-image: url(${item.image});">
-        <div class="overlay d-flex p-3 justify-content-center align-items-center">
-          <h3 class="px-3 py-2 text-center">${item.title}</h3>
+        <div class="image-container position-relative">
+          <div class="overlay"></div>
+          <img src="${item.image}" width="100%" height="320px"/>
+          <div class="d-flex content">
+            <h3>${item.title}</h3>
+          </div>
         </div>
-      </div>
       </a>
     </div>
 `;

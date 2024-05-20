@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "category": "aviation",
+        "category": "aviation-industries",
         "image": "assets/img/success-stories/smart-aviation.jpg",
         "title": "Smart Aviation - Aviation System Management",
         "description": "As of June 2019 - We have sold the Intellectual Property (IP) for RSS to a MCAS Tbk. Single Lane Free Flow is the future of the Toll Road in Indonesia, which enabling direct online transaction without physical RFID card. Road Side Server is the key to manage all the transaction",
@@ -45,6 +45,14 @@
         "image": "assets/img/success-stories/gaja.jpg",
         "title": "PT. Graha Adhi Jaya Abadi - MRP System",
         "description": "Material Requirements Planning (MRP) used by businesses to effectively manage and  plan the materials and resources needed for production. MRP systems -GAJA focused on monitoring COGS and project costs involve improving cost management, enhancing project visibility, optimizing resource allocation, and facilitating informed decision-making to drive operational efficiency and project success.",
+        "link": "./success-stories/azana-resort-management.html"
+    },
+    {
+        "id": 7,
+        "category": "logistic",
+        "image": "assets/img/success-stories/smithi.png",
+        "title": "SMITHI - Inventory System RFID",
+        "description": "Replacement of old Decision Support solutions with a lean and cost-efficient system. The system consists of a core platform responsible for daily calculations of actual direct costs, and three modules to it that cover fuel management, activity-based calculations, and invoicing processes. The system increased the efficiency of Customer’s IT environment and significantly reduced maintenance costs.",
         "link": "./success-stories/azana-resort-management.html"
     }
 ]
