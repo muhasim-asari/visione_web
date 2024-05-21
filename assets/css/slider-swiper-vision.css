@@ -17,7 +17,7 @@
   padding: 30px 15px;
   display: flex;
   flex-direction: column;
-  height: 100%;
+  min-height: 300px;
   box-shadow: 6px 4px 16px 0px rgba(0, 0, 0, 0.18)
 }
 

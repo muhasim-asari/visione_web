@@ -537,11 +537,13 @@ h6 {
   position: relative;
   margin-top: 50px;
   background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: contain;
 }
 
 @media (max-width: 767px) {
   .footer {
-    background-position: bottom;
+    background-size: cover;
   }
 }
 
@@ -898,7 +900,7 @@ section,
 
 @media (max-width: 640px) {
   .hero h1 {
-    font-size: 28px;
+    font-size: 32px;
     line-height: 36px;
   }
 
@@ -1119,6 +1121,7 @@ section,
   font-size: 22px;
   padding-left: 20px;
   font-weight: 800;
+  letter-spacing: 3px;
   z-index: 1;
 }
 
@@ -1214,6 +1217,12 @@ section,
   right: 0;
   height: calc(35% + 20px);
   background-color: #fff;
+}
+
+@media ((max-width: 767.99px)) {
+  .we-offer .icon-boxes:before {
+    position: relative!important;
+  }
 }
 
 .we-offer .icon-boxes {
@@ -1679,7 +1688,7 @@ section,
   }
 
   .stories-slider figure img {
-    height: 100%!important;
+    height: 250px!important;
   }
 
   .stories-slider figcaption {

@@ -8,35 +8,35 @@
     },
     {
         "id": 2,
-        "image": "./assets/img/industries/building.jpeg",
+        "image": "./assets/img/industries/building.webp",
         "alt": "Visione Industries",
         "title": "Building & Property",
         "url": "./industries/building-property-industries.html"
     },
     {
         "id": 3,
-        "image": "./assets/img/industries/aviation.jpg",
+        "image": "./assets/img/industries/aviation.webp",
         "alt": "Visione Industries",
         "title": "Aviation",
         "url": "./industries/aviation-industries.html"
     },
     {
         "id": 4,
-        "image": "./assets/img/industries/logistic.png",
+        "image": "./assets/img/industries/logistic.webp",
         "alt": "Visione Industries",
         "title": "Logistic",
         "url": "./industries/logistic-industries.html"
     },
     {
         "id": 5,
-        "image": "./assets/img/industries/tol.jpg",
+        "image": "./assets/img/industries/tol.webp",
         "alt": "Visione Industries",
         "title": "Toll Road",
         "url": "./industries/toll-road-industries.html"
     },
     {
         "id": 6,
-        "image": "./assets/img/industries/custom-erp.png",
+        "image": "./assets/img/industries/custom-erp.webp",
         "alt": "Visione Industries",
         "title": "Custom ERP",
         "url": "./industries/custom-erp-industries.html"

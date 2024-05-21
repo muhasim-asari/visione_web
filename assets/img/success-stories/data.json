@@ -2,7 +2,7 @@
     {
         "id": 8,
         "category": "building-property",
-        "image": "assets/img/success-stories/jumeira-recom.jpg",
+        "image": "assets/img/success-stories/jumeira-recom.webp",
         "title": "Jumeirah Bali - Asset Management",
         "description": "Fix asset management system - RECOM can establish a system that efficiently tracks and manages all fixed assets throughout their lifecycle. This includes creating detailed records for each asset, updating information as needed, and accurately recording asset sales, services, distributions, and copyrights.",
         "link": "./success-stories/jumeirah-bali.html"
@@ -10,7 +10,7 @@
     {
         "id": 1,
         "category": "travel-hospitality",
-        "image": "assets/img/success-stories/loyalty-azana.png",
+        "image": "assets/img/success-stories/loyalty-azana.webp",
         "title": "Azana Priority App - An exclusive loyalty program meticulously designed to provide a special experience for our loyal guests",
         "description": "Loyalty (Azana Priority) Hotel Membership is a mobile and web app-based software specifically designed to manage hotel customer loyalty membership programs. The software allows hotels to establish and manage loyalty programs that allow guests to earn exclusive benefits and rewards based on their membership level.",
         "link": "./success-stories/azana-resort-management.html"
@@ -18,7 +18,7 @@
     {
         "id": 2,
         "category": "travel-hospitality",
-        "image": "assets/img/success-stories/azana-crm.png",
+        "image": "assets/img/success-stories/azana-crm.webp",
         "title": "Azana Resort & Management - CRM Solution",
         "description": "Customer Relation Manager (CRM) - Full-book.com means a digital system to send letters via email to hotel customers with strategies. CRM can increase customer engagement on social media by providing reviews that can improve the experience for customers. In addition, through CRM can increase overall score and hotel performance.",
         "link": "./success-stories/azana-resort-management.html"
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "category": "toll-road",
-        "image": "assets/img/success-stories/jasamarga-slff.png",
+        "image": "assets/img/success-stories/jasamarga-slff.webp",
         "title": "Jasamarga (JMTO - FLO) - SLFF Toll Road",
         "description": "As of June 2019 - We have sold the Intellectual Property (IP) for RSS to a MCAS Tbk. Single Lane Free Flow is the future of the Toll Road in Indonesia, which enabling direct online transaction without physical RFID card. Road Side Server is the key to manage all the transaction",
         "link": "./success-stories/jasamarga-slff.html"
@@ -34,7 +34,7 @@
     {
         "id": 4,
         "category": "building-property",
-        "image": "assets/img/success-stories/asemka.jpg",
+        "image": "assets/img/success-stories/asemka.webp",
         "title": "Pusat Grosir Asemka - Property Billing & Payment System",
         "description": "Property Billing & Payment System is a fully integrated system that reduces costs and drives profits through better business processes. With a significant reduction in administrative costs, building management can focus more on improving services to tenants and monitoring occupancy rates.",
         "link": "./success-stories/azana-resort-management.html"
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "category": "aviation-industries",
-        "image": "assets/img/success-stories/smart-aviation.jpg",
+        "image": "assets/img/success-stories/smart-aviation.webp",
         "title": "Smart Aviation - Aviation System Management",
         "description": "As of June 2019 - We have sold the Intellectual Property (IP) for RSS to a MCAS Tbk. Single Lane Free Flow is the future of the Toll Road in Indonesia, which enabling direct online transaction without physical RFID card. Road Side Server is the key to manage all the transaction",
         "link": "./visione/success-stories/azana-resort-management.html"
@@ -50,7 +50,7 @@
     {
         "id": 6,
         "category": "others",
-        "image": "assets/img/success-stories/gaja.jpg",
+        "image": "assets/img/success-stories/gaja.webp",
         "title": "PT. Graha Adhi Jaya Abadi - MRP System",
         "description": "Material Requirements Planning (MRP) used by businesses to effectively manage and  plan the materials and resources needed for production. MRP systems -GAJA focused on monitoring COGS and project costs involve improving cost management, enhancing project visibility, optimizing resource allocation, and facilitating informed decision-making to drive operational efficiency and project success.",
         "link": "./success-stories/azana-resort-management.html"
@@ -58,7 +58,7 @@
     {
         "id": 7,
         "category": "logistic",
-        "image": "assets/img/success-stories/smithi.png",
+        "image": "assets/img/success-stories/smithi.webp",
         "title": "SMITHI - Inventory System RFID",
         "description": "Replacement of old Decision Support solutions with a lean and cost-efficient system. The system consists of a core platform responsible for daily calculations of actual direct costs, and three modules to it that cover fuel management, activity-based calculations, and invoicing processes. The system increased the efficiency of Customer’s IT environment and significantly reduced maintenance costs.",
         "link": "./success-stories/azana-resort-management.html"
