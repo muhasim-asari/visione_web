@@ -13,7 +13,7 @@
         "image": "assets/img/success-stories/loyalty-azana.webp",
         "title": "Azana Priority App - An exclusive loyalty program meticulously designed to provide a special experience for our loyal guests",
         "description": "Loyalty (Azana Priority) Hotel Membership is a mobile and web app-based software specifically designed to manage hotel customer loyalty membership programs. The software allows hotels to establish and manage loyalty programs that allow guests to earn exclusive benefits and rewards based on their membership level.",
-        "link": "./success-stories/azana-resort-management.html"
+        "link": "./success-stories/azana-loyalty-app.html"
     },
     {
         "id": 2,
@@ -37,7 +37,7 @@
         "image": "assets/img/success-stories/asemka.webp",
         "title": "Pusat Grosir Asemka - Property Billing & Payment System",
         "description": "Property Billing & Payment System is a fully integrated system that reduces costs and drives profits through better business processes. With a significant reduction in administrative costs, building management can focus more on improving services to tenants and monitoring occupancy rates.",
-        "link": "./success-stories/azana-resort-management.html"
+        "link": "./success-stories/pusat-grosir-asemka.html"
     },
     {
         "id": 5,
@@ -45,7 +45,7 @@
         "image": "assets/img/success-stories/smart-aviation.webp",
         "title": "Smart Aviation - Aviation System Management",
         "description": "As of June 2019 - We have sold the Intellectual Property (IP) for RSS to a MCAS Tbk. Single Lane Free Flow is the future of the Toll Road in Indonesia, which enabling direct online transaction without physical RFID card. Road Side Server is the key to manage all the transaction",
-        "link": "./visione/success-stories/azana-resort-management.html"
+        "link": "./success-stories/smart-aviation.html"
     },
     {
         "id": 6,
@@ -53,7 +53,7 @@
         "image": "assets/img/success-stories/gaja.webp",
         "title": "PT. Graha Adhi Jaya Abadi - MRP System",
         "description": "Material Requirements Planning (MRP) used by businesses to effectively manage and  plan the materials and resources needed for production. MRP systems -GAJA focused on monitoring COGS and project costs involve improving cost management, enhancing project visibility, optimizing resource allocation, and facilitating informed decision-making to drive operational efficiency and project success.",
-        "link": "./success-stories/azana-resort-management.html"
+        "link": "./success-stories/gaja-mrp-system.html"
     },
     {
         "id": 7,
@@ -61,6 +61,6 @@
         "image": "assets/img/success-stories/smithi.webp",
         "title": "SMITHI - Inventory System RFID",
         "description": "Replacement of old Decision Support solutions with a lean and cost-efficient system. The system consists of a core platform responsible for daily calculations of actual direct costs, and three modules to it that cover fuel management, activity-based calculations, and invoicing processes. The system increased the efficiency of Customer’s IT environment and significantly reduced maintenance costs.",
-        "link": "./success-stories/azana-resort-management.html"
+        "link": "./success-stories/smithi-rfid.html"
     }
 ]
