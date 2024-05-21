@@ -1,5 +1,20 @@
 [
     {
+        "id": 58,
+        "image": "./assets/img/our-clients/58.png",
+        "alt": "Visione Clients"
+    },
+    {
+        "id": 57,
+        "image": "./assets/img/our-clients/57.png",
+        "alt": "Visione Clients"
+    },
+    {
+        "id": 56,
+        "image": "./assets/img/our-clients/56.png",
+        "alt": "Visione Clients"
+    },
+    {
         "id": 1,
         "image": "./assets/img/our-clients/1.png",
         "alt": "Visione Clients"

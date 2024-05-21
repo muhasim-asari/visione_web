@@ -1,5 +1,13 @@
 [
     {
+        "id": 8,
+        "category": "building-property",
+        "image": "assets/img/success-stories/jumeira-recom.jpg",
+        "title": "Jumeirah Bali - Asset Management",
+        "description": "Fix asset management system - RECOM can establish a system that efficiently tracks and manages all fixed assets throughout their lifecycle. This includes creating detailed records for each asset, updating information as needed, and accurately recording asset sales, services, distributions, and copyrights.",
+        "link": "./success-stories/jumeirah-bali.html"
+    },
+    {
         "id": 1,
         "category": "travel-hospitality",
         "image": "assets/img/success-stories/loyalty-azana.png",
@@ -21,7 +29,7 @@
         "image": "assets/img/success-stories/jasamarga-slff.png",
         "title": "Jasamarga (JMTO - FLO) - SLFF Toll Road",
         "description": "As of June 2019 - We have sold the Intellectual Property (IP) for RSS to a MCAS Tbk. Single Lane Free Flow is the future of the Toll Road in Indonesia, which enabling direct online transaction without physical RFID card. Road Side Server is the key to manage all the transaction",
-        "link": "./success-stories/azana-resort-management.html"
+        "link": "./success-stories/jasamarga-slff.html"
     },
     {
         "id": 4,
@@ -37,7 +45,7 @@
         "image": "assets/img/success-stories/smart-aviation.jpg",
         "title": "Smart Aviation - Aviation System Management",
         "description": "As of June 2019 - We have sold the Intellectual Property (IP) for RSS to a MCAS Tbk. Single Lane Free Flow is the future of the Toll Road in Indonesia, which enabling direct online transaction without physical RFID card. Road Side Server is the key to manage all the transaction",
-        "link": "./success-stories/azana-resort-management.html"
+        "link": "./visione/success-stories/azana-resort-management.html"
     },
     {
         "id": 6,

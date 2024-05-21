@@ -8,7 +8,7 @@ fetch("./assets/img/success-stories/data.json")
       const gridItem = document.createElement("div");
       gridItem.className = `col-lg-12 grid-item ${item.category}`;
       gridItem.innerHTML = `
-          <div class="stories-item isotope-item" data-aos="fade-up" data-aos-delay="200">
+          <div class="stories-item isotope-item">
               <div class="row gy-4 d-flex align-items-center">
                   <div class="col-xl-3 px-0">
                       <img src="${item.image}" width="100%" height="275" alt="${item.title}">
