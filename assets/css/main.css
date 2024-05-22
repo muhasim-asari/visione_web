@@ -544,6 +544,19 @@ h6 {
 @media (max-width: 767px) {
   .footer {
     background-size: cover;
+    background-position: 45%;
+  }
+
+  .footer .footer-about h3 {
+    font-size: 32px;
+  }
+
+  .footer .footer-about p {
+    margin-bottom: 0;
+  }
+
+  .footer .footer-contact .email a {
+    font-size: 22px;
   }
 }
 
@@ -622,7 +635,7 @@ h6 {
   font-size: 16px;
   font-weight: 600;
   font-family: var(--default-font);
-  color: var(--nav-hover-color);
+  color: var(--heading-color);
 }
 
 /*--------------------------------------------------------------
@@ -1792,7 +1805,7 @@ section,
 
 @media ((max-width: 767.99px)) {
   .stories-detail figure img {
-    height: 150px!important;
+    height: 220px!important;
   }
 }
 
@@ -1860,6 +1873,7 @@ section,
   visibility: hidden;
   overflow: hidden;
   transition: .3s;
+  box-shadow: 8.22px 5.48px 21.92px 0px rgba(0, 0, 0, 0.18);
 }
 
 .action-cta.active .box-cta {

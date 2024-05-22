@@ -323,6 +323,19 @@
           icon.classList.replace('bi-x-lg', 'bi-whatsapp');
         }
       }
+
+      var serviceItems = document.querySelectorAll('.service-item');
+      serviceItems.forEach(function(item) {
+          item.addEventListener('mouseenter', function() {
+              var video = this.querySelector('video');
+              video.play();
+          });
+
+          item.addEventListener('mouseleave', function() {
+              var video = this.querySelector('video');
+              video.pause();
+          });
+      });
     </script>
   </body>
 </html>

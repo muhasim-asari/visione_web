@@ -110,19 +110,6 @@
   });
 
   /**
-   * Init swiper sliders
-   */
-  function initSwiper() {
-    document.querySelectorAll(".swiper").forEach(function (swiper) {
-      let config = JSON.parse(
-        swiper.querySelector(".swiper-config").innerHTML.trim()
-      );
-      new Swiper(swiper, config);
-    });
-  }
-  window.addEventListener("load", initSwiper);
-
-  /**
    * Correct scrolling position upon page load for URLs containing hash links.
    */
   window.addEventListener("load", function (e) {
@@ -208,17 +195,5 @@
           false
         );
       });
-  });
-
-  const serviceItems = document.querySelectorAll(".service-item");
-  serviceItems.forEach(function (item) {
-    item.addEventListener("mouseenter", function () {
-      var video = this.querySelector("video");
-      video.play();
-    });
-    item.addEventListener("mouseleave", function () {
-      var video = this.querySelector("video");
-      video.pause();
-    });
   });
 })();
