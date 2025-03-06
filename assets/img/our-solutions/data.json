@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/img/our-solutions/recom.webp",
+        "logo": "./assets/img/our-solutions/recom-logo.png",
+        "alt": "Visione Solutions",
+        "title": "RECOM ASSET TRACKING SYSTEM",
+        "industries": "Travel & Hospitality, Building & Property",
+        "url": "./assets/brochure/recom-asset-management.pdf"
+    },
+    {
+        "id": 2,
+        "image": "./assets/img/our-solutions/smart-linen.webp",
+        "logo": "./assets/img/our-solutions/rfid-logo.png",
+        "alt": "Visione Solutions",
+        "title": "SMART LINEN RFID TRACKING",
+        "industries": "Travel & Hospitality, Building & Property",
+        "url": "./assets/brochure/recom-rfid.pdf"
+    },
+    {
+        "id": 3,
+        "image": "./assets/img/our-solutions/approval.webp",
+        "logo": "./assets/img/our-solutions/workflow-logo.png",
+        "alt": "Visione Solutions",
+        "title": "APPROVAL WORKFLOW",
+        "industries": "Travel & Hospitality, Building & Property",
+        "url": "./assets/brochure/approval-workflow.pdf"
+    },
+    {
+        "id": 4,
+        "image": "./assets/img/our-solutions/crm.webp",
+        "logo": "./assets/img/our-solutions/fullbook.png",
+        "alt": "Visione Solutions",
+        "title": "FULLBOOK - CRM & LOYALTY",
+        "industries": "Travel & Hospitality",
+        "url": "./assets/brochure/crm-fullbook.pdf"
+    },
+    {
+        "id": 5,
+        "image": "./assets/img/our-solutions/selfq.webp",
+        "logo": "./assets/img/our-solutions/selfq-logo.png",
+        "alt": "Visione Solutions",
+        "title": "SELF-Q - SELF CHECK-IN KIOSK",
+        "industries": "Travel & Hospitality",
+        "url": "./assets/brochure/self-q.pdf"
+    },
+    {
+        "id": 6,
+        "image": "./assets/img/our-solutions/be.webp",
+        "logo": "./assets/img/our-solutions/super-app.png",
+        "alt": "Visione Solutions",
+        "title": "SUPER APP",
+        "industries": "Travel & Hospitality",
+        "url": "#"
+    }
+    
+]

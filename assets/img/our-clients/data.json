@@ -1,152 +1,87 @@
 [
     {
         "id": 1,
-        "image": "./assets/img/our-clients/1.png",
+        "image": "./assets/img/our-clients/de-laxston.png",
         "alt": "Visione Clients"
     },
     {
         "id": 2,
-        "image": "./assets/img/our-clients/2.png",
+        "image": "./assets/img/our-clients/amira.png",
         "alt": "Visione Clients"
     },
     {
         "id": 3,
-        "image": "./assets/img/our-clients/3.png",
+        "image": "./assets/img/our-clients/the-cube.png",
         "alt": "Visione Clients"
     },
     {
         "id": 4,
-        "image": "./assets/img/our-clients/4.png",
+        "image": "./assets/img/our-clients/viva.png",
         "alt": "Visione Clients"
     },
     {
         "id": 5,
-        "image": "./assets/img/our-clients/5.png",
+        "image": "./assets/img/our-clients/braling.png",
         "alt": "Visione Clients"
     },
     {
         "id": 6,
-        "image": "./assets/img/our-clients/6.png",
+        "image": "./assets/img/our-clients/asemka.png",
         "alt": "Visione Clients"
     },
     {
         "id": 7,
-        "image": "./assets/img/our-clients/7.png",
+        "image": "./assets/img/our-clients/smart-aviation.png",
         "alt": "Visione Clients"
     },
     {
         "id": 8,
-        "image": "./assets/img/our-clients/8.png",
+        "image": "./assets/img/our-clients/jasa-marga.png",
         "alt": "Visione Clients"
     },
     {
         "id": 9,
-        "image": "./assets/img/our-clients/9.png",
+        "image": "./assets/img/our-clients/menara.png",
         "alt": "Visione Clients"
     },
     {
         "id": 10,
-        "image": "./assets/img/our-clients/10.png",
+        "image": "./assets/img/our-clients/intracs.png",
         "alt": "Visione Clients"
     },
     {
         "id": 11,
-        "image": "./assets/img/our-clients/11.png",
+        "image": "./assets/img/our-clients/oen.png",
         "alt": "Visione Clients"
     },
     {
         "id": 12,
-        "image": "./assets/img/our-clients/12.png",
+        "image": "./assets/img/our-clients/ifars.png",
         "alt": "Visione Clients"
     },
     {
         "id": 13,
-        "image": "./assets/img/our-clients/13.png",
+        "image": "./assets/img/our-clients/hi-lab.png",
         "alt": "Visione Clients"
     },
     {
         "id": 14,
-        "image": "./assets/img/our-clients/14.png",
+        "image": "./assets/img/our-clients/batik.png",
         "alt": "Visione Clients"
     },
     {
         "id": 15,
-        "image": "./assets/img/our-clients/15.png",
+        "image": "./assets/img/our-clients/ray-white.png",
         "alt": "Visione Clients"
     },
     {
         "id": 16,
-        "image": "./assets/img/our-clients/16.png",
+        "image": "./assets/img/our-clients/citibank.png",
         "alt": "Visione Clients"
     },
     {
         "id": 17,
-        "image": "./assets/img/our-clients/17.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 18,
-        "image": "./assets/img/our-clients/18.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 19,
-        "image": "./assets/img/our-clients/19.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 20,
-        "image": "./assets/img/our-clients/20.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 21,
-        "image": "./assets/img/our-clients/21.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 22,
-        "image": "./assets/img/our-clients/22.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 23,
-        "image": "./assets/img/our-clients/23.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 24,
-        "image": "./assets/img/our-clients/24.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 25,
-        "image": "./assets/img/our-clients/25.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 26,
-        "image": "./assets/img/our-clients/26.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 27,
-        "image": "./assets/img/our-clients/27.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 28,
-        "image": "./assets/img/our-clients/28.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 29,
-        "image": "./assets/img/our-clients/29.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 30,
-        "image": "./assets/img/our-clients/30.png",
+        "image": "./assets/img/our-clients/k24.png",
         "alt": "Visione Clients"
     }
 ]

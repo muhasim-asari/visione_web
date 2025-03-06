@@ -13,7 +13,7 @@ fetch("./assets/img/our-clients/data.json")
 // Function to create client items
 function createClientItem(client) {
   return `
-    <div class="col-xl-2 col-md-3 col-6 client-logo">
+    <div class="col-xl-2 col-md-2 col-6 client-logo">
       <img src="${client.image}" class="img-fluid" alt="${client.alt}" />
     </div>
   `;
