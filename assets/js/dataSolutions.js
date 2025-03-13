@@ -2,7 +2,6 @@
 fetch("./assets/img/our-solutions/data.json")
   .then((response) => response.json())
   .then((data) => {
-    // Render industries items
     const ourSolutions = document.getElementById("solutions-container");
     data.forEach((item) => {
         ourSolutions.innerHTML += createOurSolutionsItem(item);
@@ -24,7 +23,7 @@ function createOurSolutionsItem(item) {
         <div class="px-3 py-2">
             <h3>${item.title}</h3>
             <p>${item.industries}</p>
-            <a href="${item.url}" target="_blank" class="button arrow">See Detail</a>
+            ${item.url ? `<a href="${item.url}" target="_blank" class="button arrow">See Detail</a>` : ""}
         </div>
         </div>
     </div>

@@ -4,44 +4,44 @@
         "image": "./assets/img/our-solutions/recom.webp",
         "logo": "./assets/img/our-solutions/recom-logo.png",
         "alt": "Visione Solutions",
-        "title": "RECOM ASSET TRACKING SYSTEM",
-        "industries": "Travel & Hospitality, Building & Property",
-        "url": "./assets/brochure/recom-asset-management.pdf"
+        "title": "Enterprise Asset Management",
+        "industries": "Hotel - Property",
+        "url": "./our-solutions/recom-asset-tracking.html"
     },
     {
         "id": 2,
         "image": "./assets/img/our-solutions/smart-linen.webp",
         "logo": "./assets/img/our-solutions/rfid-logo.png",
         "alt": "Visione Solutions",
-        "title": "SMART LINEN RFID TRACKING",
-        "industries": "Travel & Hospitality, Building & Property",
-        "url": "./assets/brochure/recom-rfid.pdf"
+        "title": "RFID - Driven Efficiency",
+        "industries": "Hotel - Logistic - Museum - Transportation",
+        "url": "./our-solutions/rfid-driven-efficiency.html"
     },
     {
         "id": 3,
         "image": "./assets/img/our-solutions/approval.webp",
         "logo": "./assets/img/our-solutions/workflow-logo.png",
         "alt": "Visione Solutions",
-        "title": "APPROVAL WORKFLOW",
-        "industries": "Travel & Hospitality, Building & Property",
-        "url": "./assets/brochure/approval-workflow.pdf"
+        "title": "Enterprise Paperless Workflow Approval",
+        "industries": "Medium - Large Enterprise",
+        "url": "./our-solutions/workflow.html"
     },
     {
         "id": 4,
         "image": "./assets/img/our-solutions/crm.webp",
         "logo": "./assets/img/our-solutions/fullbook.png",
         "alt": "Visione Solutions",
-        "title": "FULLBOOK - CRM & LOYALTY",
-        "industries": "Travel & Hospitality",
-        "url": "./assets/brochure/crm-fullbook.pdf"
+        "title": "Hotellier CRM - Loyalty",
+        "industries": "Hotel Chain",
+        "url": "./our-solutions/loyalty-platform.html"
     },
     {
         "id": 5,
         "image": "./assets/img/our-solutions/selfq.webp",
         "logo": "./assets/img/our-solutions/selfq-logo.png",
         "alt": "Visione Solutions",
-        "title": "SELF-Q - SELF CHECK-IN KIOSK",
-        "industries": "Travel & Hospitality",
+        "title": "Redefining Hotel Smart Check-In",
+        "industries": "Hotel",
         "url": "./assets/brochure/self-q.pdf"
     },
     {
@@ -49,9 +49,9 @@
         "image": "./assets/img/our-solutions/be.webp",
         "logo": "./assets/img/our-solutions/super-app.png",
         "alt": "Visione Solutions",
-        "title": "SUPER APP",
-        "industries": "Travel & Hospitality",
-        "url": "#"
+        "title": "Enterprise-Grade Hotel Booking Booking Engine",
+        "industries": "Hotel Chain",
+        "url": ""
     }
     
 ]

@@ -88,6 +88,13 @@ h6 {
   font-family: var(--heading-font);
 }
 
+.button-start::after {
+  content: '';
+  display: block;
+  border-bottom: 3px solid var(--default-color);
+  max-width: 85px;
+}
+
 /*--------------------------------------------------------------
 # Global Header
 --------------------------------------------------------------*/
@@ -945,9 +952,15 @@ section,
   object-fit: cover;
 }
 
+.featured-services .service-item .image-features {
+  width: 100%; 
+  height: 560px; 
+  object-fit: cover;
+}
+
 .featured-services .service-item .featured-description {
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.5);
   font-family: var(--default-font);
 }
 
@@ -1987,10 +2000,15 @@ section,
 .our-solutions .solution-card {
   background-color: white;
   overflow: hidden;
+  height: 100%;
 }
 
 .our-solutions .solution-card img {
   object-fit: cover;
+}
+
+.our-solutions .solution-card .logo-solution img {
+  object-fit: contain;
 }
 
 .our-solutions .solution-card .logo-solution {

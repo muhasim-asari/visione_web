@@ -181,7 +181,9 @@
           <h1 class="col-xl-7 col-md-12 col-12">
             Let's make <span class="px-2">I.T</span> works together.
           </h1>
-          <a href="#about" class="position-relative"> Learn More </a>
+          <a href="#about" class="position-relative button-start">
+            Learn More
+          </a>
           <div class="scroll-guide">
             <i></i>
           </div>
@@ -229,7 +231,7 @@
                 <img
                   src="assets/img/about-company-2.png"
                   width="auto"
-                  height="510"
+                  height="600"
                   class="img-fluid"
                   alt="about-image-visione"
                 />
@@ -249,7 +251,7 @@
               data-aos-delay="100"
             >
               <div class="service-item video-feature d-flex">
-                <video
+                <!-- <video
                   width="100%"
                   height="560"
                   muted
@@ -258,7 +260,13 @@
                 >
                   <source src="./assets/video/iot.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
-                </video>
+                </video> -->
+                <img
+                  class="image-features"
+                  src="./assets/img/digifo.jpg"
+                  alt="Software Engineering"
+                  style="object-position: 80%;"
+                />
                 <div
                   class="featured-description position-absolute px-4 py-5 d-flex flex-column justify-content-end gap-2"
                 >
@@ -280,7 +288,7 @@
               data-aos-delay="100"
             >
               <div class="service-item video-feature d-flex">
-                <video
+                <!-- <video
                   width="100%"
                   height="560"
                   muted
@@ -288,11 +296,16 @@
                   title="Software Engineering"
                 >
                   <source
-                    src="./assets/video/it-consultant.webm"
+                    src="./assets/video/software.mp4"
                     type="video/mp4"
                   />
                   Your browser does not support the video tag.
-                </video>
+                </video> -->
+                <img
+                  class="image-features"
+                  src="./assets/img/softdev.jpg"
+                  alt="Software Engineering"
+                />
                 <div
                   class="featured-description position-absolute px-4 py-5 d-flex flex-column justify-content-end gap-2"
                 >
@@ -314,7 +327,7 @@
               data-aos-delay="100"
             >
               <div class="service-item video-feature d-flex">
-                <video
+                <!-- <video
                   width="100%"
                   height="560"
                   muted
@@ -323,7 +336,13 @@
                 >
                   <source src="./assets/video/cloud.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
-                </video>
+                </video> -->
+                <img
+                  class="image-features"
+                  src="./assets/img/cloud.jpg"
+                  alt="Software Engineering"
+                  style="object-position: 0%;"
+                />
                 <div
                   class="featured-description position-absolute px-4 py-5 d-flex flex-column justify-content-end gap-2"
                 >
@@ -369,11 +388,11 @@
           data-aos="fade-up"
           data-aos-delay="100"
         >
-          <h2>Industries we focus on</h2>
+          <h2>Industries we specialized in</h2>
           <p>
-            We focus on each domain's unique risks, opportunities, and best
-            practices to deliver agile and resilient IT solutions tailored to
-            your business specificity.
+            “We tailor agile and resilient IT solutions to each industry’s unique
+            risks, opportunities, and best practices, ensuring seamless
+            alignment with business needs.”
           </p>
         </div>
         <!-- End Section Title -->
@@ -526,7 +545,6 @@
                     <figcaption>
                       <h2>Melia Hotels - RECOM Asset Tracking System</h2>
                       <ul>
-                        <li>PHP</li>
                         <li>Travel & Hospitality</li>
                       </ul>
                       <p>
@@ -538,9 +556,7 @@
                         system enables structured management of hotel assets,
                         including equipment, furniture, and other facilities.
                       </p>
-                      <a href="#"
-                        >View success story</a
-                      >
+                      <!-- <a href="#">View success story</a> -->
                     </figcaption>
                   </div>
                 </div>
@@ -564,7 +580,6 @@
                     <figcaption>
                       <h2>Kempinski - Approval Process Tracking</h2>
                       <ul>
-                        <li>PHP</li>
                         <li>Travel & Hospitality</li>
                       </ul>
                       <p>
@@ -576,9 +591,7 @@
                         or levels of authority are tracked efficiently from
                         initiation to finalization.
                       </p>
-                      <a href="#"
-                        >View success story</a
-                      >
+                      <!-- <a href="#">View success story</a> -->
                     </figcaption>
                   </div>
                 </div>
@@ -602,7 +615,6 @@
                     <figcaption>
                       <h2>Azana Resort & Management - CRM Solution</h2>
                       <ul>
-                        <li>PHP</li>
                         <li>Travel & Hospitality</li>
                       </ul>
                       <p>
@@ -644,7 +656,6 @@
                         for our loyal guests
                       </h2>
                       <ul>
-                        <li>React Native</li>
                         <li>Travel & Hospitality</li>
                       </ul>
                       <p>
@@ -681,7 +692,6 @@
                     <figcaption>
                       <h2>Smart Aviation - Aviation System Management</h2>
                       <ul>
-                        <li>PHP</li>
                         <li>Aviation</li>
                       </ul>
                       <p>
@@ -720,7 +730,6 @@
                     <figcaption>
                       <h2>SMITHI - Inventory System RFID</h2>
                       <ul>
-                        <li>PHP</li>
                         <li>Logistic</li>
                       </ul>
                       <p>
@@ -759,7 +768,6 @@
                     <figcaption>
                       <h2>Jasamarga (JMTO - FLO)</h2>
                       <ul>
-                        <li>PHP</li>
                         <li>Toll Road</li>
                       </ul>
                       <p>
@@ -941,18 +949,18 @@
         }
       }
 
-      var serviceItems = document.querySelectorAll(".video-feature");
-      serviceItems.forEach(function (item) {
-        item.addEventListener("mouseenter", function () {
-          var video = this.querySelector("video");
-          video.play();
-        });
+      // var serviceItems = document.querySelectorAll(".video-feature");
+      // serviceItems.forEach(function (item) {
+      //   item.addEventListener("mouseenter", function () {
+      //     var video = this.querySelector("video");
+      //     video.play();
+      //   });
 
-        item.addEventListener("mouseleave", function () {
-          var video = this.querySelector("video");
-          video.pause();
-        });
-      });
+      //   item.addEventListener("mouseleave", function () {
+      //     var video = this.querySelector("video");
+      //     video.pause();
+      //   });
+      // });
     </script>
   </body>
 </html>

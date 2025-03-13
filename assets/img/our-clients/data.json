@@ -40,11 +40,6 @@
         "alt": "Visione Clients"
     },
     {
-        "id": 9,
-        "image": "./assets/img/our-clients/menara.png",
-        "alt": "Visione Clients"
-    },
-    {
         "id": 10,
         "image": "./assets/img/our-clients/intracs.png",
         "alt": "Visione Clients"
@@ -72,11 +67,6 @@
     {
         "id": 15,
         "image": "./assets/img/our-clients/ray-white.png",
-        "alt": "Visione Clients"
-    },
-    {
-        "id": 16,
-        "image": "./assets/img/our-clients/citibank.png",
         "alt": "Visione Clients"
     },
     {
