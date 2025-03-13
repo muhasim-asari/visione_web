@@ -960,7 +960,8 @@ section,
 
 .featured-services .service-item .featured-description {
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
+  /* background: linear-gradient(to top, rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0)); */
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0) 100%);
   font-family: var(--default-font);
 }
 
